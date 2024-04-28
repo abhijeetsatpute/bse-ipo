@@ -43,4 +43,4 @@ BSE IPO Web Scraper is licensed under the [MIT License](https://github.com/abhij
 
 ## Support
 
-For any questions, feedback, or support requests, please contact [abhijeetsatpute98@gmail.com].
+For any questions, feedback, or support requests, please [contact](abhijeetsatpute98@gmail.com).
